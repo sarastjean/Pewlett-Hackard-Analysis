@@ -12,3 +12,10 @@ To solve the problem, I joined several various data sources to get a cohesive li
 ### Recommendations and Further Investigation
 
 There are 72,458 employees set to retire, 70% of which hold the titles of Senior Engineer and Senior Staff. Looking at the Mentorship Eligibility list, there are only 1,549 employees for this potential program and in addition to that, most already hold Senior Level titles. My recommendation would be to go younger for the program. Born in 1965 put someone at 55 years old. If you want to create change and advance your company, look at the younger employees who will be around for a bit longer because PH will just have this issue again in the next few years. Also, the salaries do not seem accurate either. A Senior Engineer making $50k at age 60 is a little low. To replace almost 73,000 employees, I would recommend training and gathering applicants for the empty roles quickly.
+
+### SQL Coding Examples
+
+![](https://github.com/sarastjean/Pewlett-Hackard-Analysis/blob/master/SQL%20Code%20Examples/SQLcode1.PNG)
+![](https://github.com/sarastjean/Pewlett-Hackard-Analysis/blob/master/SQL%20Code%20Examples/SQLCode2.PNG)
+![](https://github.com/sarastjean/Pewlett-Hackard-Analysis/blob/master/SQL%20Code%20Examples/SQLcode3.PNG)
+
